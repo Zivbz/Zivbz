@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+I'm Ziv, a Computer Science student fascinated by new technologies and eager to learn something new every day. At the moment, I am trying different projects in various domains to broaden my knowledge and experience.
+
+
 <!--
 **Zivbz/Zivbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
