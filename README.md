@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-I'm Ziv, a Computer Science student fascinated by new technologies and eager to learn something new every day. At the moment, I am trying different projects in various domains to broaden my knowledge and experience.
+I'm Ziv, a Computer Science student, fascinated by new technologies and eager to learn something new every day. 
+At the moment, I am trying different projects in various domains to broaden my knowledge and experience.
 
 
 <!--
